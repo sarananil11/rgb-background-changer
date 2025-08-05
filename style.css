@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  transition: background-color 0.5s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.center-text h1 {
+  text-align: center;
+  color: #333;
+}
